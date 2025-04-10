@@ -1,0 +1,4 @@
+name = "JuliaGrep"
+uuid = "69714a4a-9128-4c40-a56c-db4622eb9673"
+authors = ["Colin Swaney <colinswaney@gmail.com>"]
+version = "0.1.0"
