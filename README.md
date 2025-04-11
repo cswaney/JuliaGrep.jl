@@ -29,7 +29,7 @@ This is a toy example to demonstrate the proposed `app` feature for `Pkg`.
 4. Add this repo:
 ```julia
 import Pkg
-Pkg.Apps.add("https://github.com/cswaney/JuliaGrep.jl.git")
+(Pkg) pkg> app add https://github.com/cswaney/JuliaGrep.jl.git
 ```
 4. Add the shim directory to your `PATH`: export PATH="$HOME/.julia/bin:$PATH"
-5. Test it: `jgrep test.txt '[0-9]'
+5. Test it: `jgrep test.txt '[0-9]'`
