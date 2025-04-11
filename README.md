@@ -3,7 +3,7 @@
 This is a toy example to demonstrate the proposed `app` feature for `Pkg`.
 
 ## Links
-- [App support in Pkg | Carlsson | JuliaCoon 2024](https://www.youtube.com/watch?v=7n27lF_SrxY)
+- [App support in Pkg | Carlsson | JuliaCon 2024](https://www.youtube.com/watch?v=7n27lF_SrxY)
 - [Pkg Documentation](https://pkgdocs.julialang.org/dev/apps/)
 
 ## Overview
