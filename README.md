@@ -30,7 +30,7 @@ This is a toy example to demonstrate ahead-of-time (AOT) compiled Julia.
 1. Clone this repo.
 2. Obtain `nightly` Julia: `juliaup add nightly`
 3. Build the executable: `julia +nightly --project ./build/juliac.jl --trim --output-exe ./build/jgrep ./src/JuliaGrep.jl --experimental`
-4. Test it: `jgrep test.txt '[0-9]'
+4. Test it: `jgrep test.txt '[0-9]'`
 
 ### Thoughts
 - This is great, but there is almost no documentation still, and it does require some adjustments to development practices
